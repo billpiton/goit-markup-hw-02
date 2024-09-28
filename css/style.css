@@ -3,29 +3,31 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.webStudio {
+.webstudio {
   font-family: 'Raleway', sans-serif;
+   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.Web-studio{
+.web-studio{
   color: #2e2f42;
 }
-.studio  li{
+  .list-of-logo{
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.studio li:hover{
+.list-of-logo:hover{
     
     color: #404bbf;
 }
 
-.studio li:focus{
+.list-of-logo:focus{
   color: #404bbf;
 }
 .contact {
@@ -41,7 +43,7 @@ body {
 .list-of-contact :hover{
     color: #404bbf;
 }
-.list-of-contact :hover{
+.list-of-contact :focus{
     color: #404bbf ;
 }
 
