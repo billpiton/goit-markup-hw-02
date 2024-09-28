@@ -32,16 +32,16 @@ body {
   font-style: normal;
    
 }
-.list-of-contact li{
+.list-of-contact {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.list-of-contact li:hover{
+.list-of-contact :hover{
     color: #404bbf;
 }
-.list-of-contact li:hover{
+.list-of-contact :hover{
     color: #404bbf ;
 }
 
