@@ -22,12 +22,12 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.list-of-logo:hover{
+.list-of-logo .link:hover{
     
     color: #404bbf;
 }
 
-.list-of-logo:focus{
+.list-of-logo .link:focus{
   color: #404bbf;
 }
 .contact {
