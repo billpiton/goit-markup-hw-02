@@ -29,16 +29,23 @@ body {
   color: #2e2f42;
 }
 
-.features-list {
+.features-list1 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.features-list .features-list1:hover,
-.features-list .features-list1:focus {
+.features-list1:hover,
+.features-list1:focus {
   color: #404bbf;
+}
+.features-list {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .contact {
@@ -50,9 +57,7 @@ body {
   color: #434455;
 }
 
-.list-of-contact :hover {
-  color: #404bbf;
-}
+.list-of-contact :hover,
 .list-of-contact :focus {
   color: #404bbf;
 }
