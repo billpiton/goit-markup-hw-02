@@ -36,13 +36,11 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.features-list1:hover {
+.features-list .features-list1:hover,
+.features-list .features-list1:focus {
   color: #404bbf;
 }
 
-.features-list1:focus {
-  color: #404bbf;
-}
 .contact {
   font-style: normal;
 }
