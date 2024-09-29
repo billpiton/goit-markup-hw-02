@@ -1,15 +1,14 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
-.header-container{
-    height: 72px;
-    
+.header-container {
+  height: 72px;
 }
-.nav-list{
-    margin-left: 156;
-    margin-top: 24px;
+.nav-list {
+  margin-left: 156;
+  margin-top: 24px;
 }
 .logo-1 {
   font-family: 'Raleway', sans-serif;
@@ -20,46 +19,44 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo-2{
+.logo-2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
-  text-transform: uppercase;  
+  text-transform: uppercase;
   color: #2e2f42;
 }
 
-.features-list{
+.features-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
- .features-list.link:hover{
-    
-    color: #404bbf;
+.features-list1:hover {
+  color: #404bbf;
 }
 
-features-list .link:focus{
+.features-list1:focus {
   color: #404bbf;
 }
 .contact {
   font-style: normal;
-   
 }
 .list-of-contact {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.list-of-contact :hover{
-    color: #404bbf;
+.list-of-contact :hover {
+  color: #404bbf;
 }
-.list-of-contact :focus{
-    color: #404bbf ;
+.list-of-contact :focus {
+  color: #404bbf;
 }
 
 .mainsection1 {
@@ -76,7 +73,7 @@ features-list .link:focus{
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 16px
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
@@ -95,120 +92,82 @@ features-list .link:focus{
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42 ;
+  color: #2e2f42;
 }
-.paragraf-of-strategy{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
-}
-.punctuality{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455; 
-}
-.paragraf-of-punctuality{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
-}
-.diligence{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
+.paragraf-of-strategy {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.paragraf-of-diligence{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
+.mainsection3 {
+  background-color: #f4f4fd;
 }
-.technologies{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42 ;
-} 
-
-.paragraf-of-technologies{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em ;
-    color: #434455;
+.our-team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
-.mainsection3{
-    background-color: #F4F4FD;
+.first-of-mainsection3 {
+  background-color: #ffffff;
 }
-.our-team{
-    font-size: 36px;
-    line-height: 1.11 ;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
+.mark-guerrero {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.first-of-mainsection3{
-    background-color: #FFFFFF;
-}
-.mark-guerrero{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
-.product-designer{
-    font-size: 16px ;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434454;
+.product-designer {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.our-portfolio{
-    font-size: 36px;
-    line-height: 1.11 ;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
+.our-portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
-.banking-app{
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.banking-app {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.app{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+.app {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.foter{
-    background-color: #2e2f42;
+.foter {
+  background-color: #2e2f42;
 }
-.webstudio{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+.webstudio {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
-.studio{ 
-    color: #f4f4fd;
+.studio {
+  color: #f4f4fd;
 }
-.foter-paragraf{
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
+.foter-paragraf {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
