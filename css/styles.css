@@ -76,6 +76,7 @@ features-list .link:focus{
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
+  font-size: 16px
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
@@ -94,26 +95,49 @@ features-list .link:focus{
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color зі значенням #2e2f42 ;
+  color: #2e2f42 ;
 }
 .paragraf-of-strategy{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em ;
     color: #434455;
+}
+.punctuality{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em ;
+    color: #434455; 
 }
 .paragraf-of-punctuality{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em ;
     color: #434455;
 }
-
+.diligence{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em ;
+    color: #434455;
+}
 
 .paragraf-of-diligence{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em ;
     color: #434455;
 }
+.technologies{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
+} 
+
 .paragraf-of-technologies{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em ;
     color: #434455;
@@ -143,59 +167,9 @@ features-list .link:focus{
     font-size: 16px ;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#434455 ;
+    color: #434454;
 }
-.first-of-mainsection2{
-    background-color: #FFFFFF;
-|}
-.tom-ford{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
-.frontend-developer{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
-.first-of-mainsection3{
-    background-color: #FFFFFF;
-}
-.camila-garcia{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
-.marketing{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-} 
-.first-of-mainsection4{
-    background-color: #FFFFFF;
-}
-.daniel-wilson{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
-.ui-designer{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color:#2e2f42 ;
-}
+
 .our-portfolio{
     font-size: 36px;
     line-height: 1.11 ;
@@ -209,7 +183,7 @@ features-list .link:focus{
     font-size: 20px ;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color зі значенням #2e2f42;
+    color: #2e2f42;
 }
 .app{
     font-size: 16px;
@@ -217,71 +191,7 @@ features-list .link:focus{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.cashless-payment{
-font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color зі значенням #2e2f42;
-}
-.marketing{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.meditation-app{
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.app-meditation{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.taxi-service{
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.marketing{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.screen-illustration{
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.design{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.online-courses{
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.marketing{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 .foter{
     background-color: #2e2f42;
 }
@@ -294,9 +204,9 @@ font-weight: 500 ;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.studio[
+.studio{ 
     color: #f4f4fd;
-]
+}
 .foter-paragraf{
     line-height: 1.5;
     color: #F4F4FD;
