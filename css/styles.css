@@ -10,7 +10,7 @@ body {
   margin-left: 156;
   margin-top: 24px;
 }
-.logo-1 {
+.logo-a {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -19,7 +19,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo-2 {
+.logo-b {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -29,7 +29,7 @@ body {
   color: #2e2f42;
 }
 
-.features-list1 {
+.features-list-a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -62,7 +62,7 @@ body {
   color: #404bbf;
 }
 
-.mainsection1 {
+.mainsection-a {
   background-color: #2e2f42;
 }
 .effective {
@@ -104,7 +104,7 @@ body {
   color: #434455;
 }
 
-.mainsection3 {
+.mainsection-c {
   background-color: #f4f4fd;
 }
 .our-team {
@@ -115,7 +115,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.first-of-mainsection3 {
+.first-of-mainsection-c {
   background-color: #ffffff;
 }
 .mark-guerrero {
