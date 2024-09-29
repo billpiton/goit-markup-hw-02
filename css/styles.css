@@ -5,7 +5,7 @@ body {
 }
 .header-container{
     height: 72px;
-    display: flex;
+    
 }
 .nav-list{
     margin-left: 156;
@@ -29,19 +29,20 @@ body {
   text-transform: uppercase;  
   color: #2e2f42;
 }
-  .list-of-logo{
+
+.features-list{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.list-of-logo .link:hover{
+ .features-list.link:hover{
     
     color: #404bbf;
 }
 
-.list-of-logo .link:focus{
+features-list .link:focus{
   color: #404bbf;
 }
 .contact {
