@@ -6,10 +6,7 @@ body {
 .header-container {
   height: 72px;
 }
-.nav-list {
-  margin-left: 156;
-  margin-top: 24px;
-}
+
 .logo-a {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
