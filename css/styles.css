@@ -50,8 +50,8 @@ body {
   color: #434455;
 }
 
-.list-of-contact :hover,
-.list-of-contact :focus {
+.list-of-contact:hover,
+.list-of-contact:focus {
   color: #404bbf;
 }
 
